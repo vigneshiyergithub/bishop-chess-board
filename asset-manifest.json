@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bishop-chess-board/static/css/main.553e6420.css",
+    "main.js": "/bishop-chess-board/static/js/main.2737692b.js",
+    "static/js/787.c9cb038b.chunk.js": "/bishop-chess-board/static/js/787.c9cb038b.chunk.js",
+    "index.html": "/bishop-chess-board/index.html",
+    "main.553e6420.css.map": "/bishop-chess-board/static/css/main.553e6420.css.map",
+    "main.2737692b.js.map": "/bishop-chess-board/static/js/main.2737692b.js.map",
+    "787.c9cb038b.chunk.js.map": "/bishop-chess-board/static/js/787.c9cb038b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.553e6420.css",
+    "static/js/main.2737692b.js"
+  ]
+}
