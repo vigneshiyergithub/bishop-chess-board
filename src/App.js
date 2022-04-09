@@ -66,7 +66,6 @@ const initialStyle = (isOdd) => ({
 const Col = ({ col, colIndex, rowIndex, setActiveCell, currentCell }) => {
   const isOdd = (colIndex + rowIndex + 1) % 2 !== 0;
   const [styles, setStyles] = useState(initialStyle(isOdd));
-  // useEffect(() => setStyles(initialStyle(isOdd)), [isOdd]);
   const onHover = () => {
     setActiveCell(rowIndex, colIndex);
     setStyles({
